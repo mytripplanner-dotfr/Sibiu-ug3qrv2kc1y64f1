@@ -1,0 +1,232 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🏰",
+  "titre": "Évasion relaxante au cœur de la Transylvanie",
+  "budget_total": "1462€",
+  "duree": "7 jours",
+  "temps_vol": "4h35 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion douce à Sibiu",
+      "legende": "Après votre vol, installez-vous confortablement et laissez-vous charmer par l'ambiance paisible de Sibiu. Une première balade dans la Grande Place vous offrira un aperçu de son histoire et de son architecture unique, parfaite pour une entrée en matière relaxante.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🛬 <strong>Arrivée à Sibiu</strong>: Atterrissage à l'aéroport international de Sibiu (SBZ) et transfert vers votre hébergement.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous installer dans votre hôtel au cœur de la ville.",
+        "🚶‍♂️ <strong>Balade relaxante dans la Piata Mare</strong>: Découvrez la Grande Place, le cœur historique de Sibiu, avec ses bâtiments colorés et son atmosphère sereine."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piata Mare, Sibiu",
+          "categorie": "Place historique",
+          "coords": { "lat": 45.7960, "lng": 24.1520 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre historique de Sibiu est très compact et se prête parfaitement à la marche. Prévoyez des chaussures confortables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Culture et vues panoramiques",
+      "legende": "Plongez dans le riche passé de Sibiu avec une visite culturelle apaisante, puis prenez de la hauteur pour admirer la ville sous un angle nouveau. Une journée équilibrée entre découverte et contemplation.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🖼️ <strong>Visite du Musée National Brukenthal</strong>: Explorez l'une des plus anciennes collections d'art de Roumanie, abritée dans un magnifique palais baroque.",
+        "🚶‍♀️ <strong>Découverte de la Piata Mica et du Pont des Mensonges</strong>: Flânez dans la Petite Place, admirez ses passages secrets et traversez le célèbre pont légendaire.",
+        "🔭 <strong>Montée à la Tour du Conseil</strong>: Profitez d'une vue imprenable sur les toits de Sibiu et les montagnes environnantes depuis ce point d'observation emblématique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée National Brukenthal, Sibiu",
+          "categorie": "Musée d'art",
+          "coords": { "lat": 45.7965, "lng": 24.1510 }
+        },
+        {
+          "nom_recherche": "Piata Mica, Sibiu",
+          "categorie": "Place historique",
+          "coords": { "lat": 45.7950, "lng": 24.1530 }
+        },
+        {
+          "nom_recherche": "Pont des Mensonges, Sibiu",
+          "categorie": "Monument",
+          "coords": { "lat": 45.7950, "lng": 24.1535 }
+        },
+        {
+          "nom_recherche": "Tour du Conseil, Sibiu",
+          "categorie": "Tour d'observation",
+          "coords": { "lat": 45.7960, "lng": 24.1525 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "La montée à la Tour du Conseil se fait par des escaliers étroits, mais la vue en vaut l'effort. Prévoyez votre appareil photo!"
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Immersion rurale et détente au musée Astra",
+      "legende": "Évadez-vous de l'agitation urbaine pour une journée au grand air, explorant les traditions rurales roumaines. Le musée Astra offre une expérience paisible et enrichissante, idéale pour une promenade relaxante.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🚶‍♀️ <strong>Promenade au Musée National Astra</strong>: Découvrez l'un des plus grands musées en plein air d'Europe, présentant des maisons traditionnelles, des moulins et des ateliers artisanaux de toute la Roumanie.",
+        "🧺 <strong>Pique-nique au bord du lac</strong>: Profitez d'un moment de calme avec un pique-nique dans le cadre verdoyant du musée, au bord de l'un de ses lacs.",
+        "☕ <strong>Pause café dans un cadre traditionnel</strong>: Détendez-vous dans l'un des cafés du musée, imprégné de l'ambiance rurale d'antan."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée National Astra, Sibiu",
+          "categorie": "Musée en plein air",
+          "coords": { "lat": 45.7670, "lng": 24.1080 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès",
+          "texte": "Le musée Astra est facilement accessible en bus depuis le centre-ville de Sibiu, ou en taxi pour plus de commodité."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "♨️",
+      "titre": "Journée de bien-être aux lacs salés d'Ocna Sibiului",
+      "legende": "Offrez-vous une parenthèse de pure détente dans les eaux thérapeutiques d'Ocna Sibiului. Une journée dédiée au bien-être, à la baignade et aux bienfaits des boues salées, loin du stress quotidien.",
+      "lieu": "Ocna Sibiului",
+      "activites": [
+        "🚗 <strong>Excursion à Ocna Sibiului</strong>: Court trajet en voiture ou en bus vers cette station balnéaire réputée pour ses lacs salés.",
+        "🏊‍♀️ <strong>Baignade dans les lacs salés</strong>: Profitez des propriétés curatives des eaux salées, idéales pour la relaxation et la santé.",
+        "💆‍♀️ <strong>Application de boue thérapeutique</strong>: Expérimentez les bienfaits des boues riches en minéraux, reconnues pour leurs vertus apaisantes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Ocna Sibiului",
+          "categorie": "Station thermale",
+          "coords": { "lat": 45.8500, "lng": 24.0600 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Conseil",
+          "texte": "N'oubliez pas votre maillot de bain, une serviette et de la crème solaire. Les lacs sont très salés, une douche après la baignade est recommandée."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛰️",
+      "titre": "Évasion montagnarde à Păltiniș",
+      "legende": "Respirez l'air pur des Carpates lors d'une excursion à Păltiniș, la plus ancienne station de ski de Roumanie. Profitez d'une balade douce en montagne et de panoramas apaisants, loin de l'agitation.",
+      "lieu": "Păltiniș",
+      "activites": [
+        "🚌 <strong>Voyage vers Păltiniș</strong>: Départ pour la station de montagne de Păltiniș, offrant des paysages magnifiques et un climat vivifiant.",
+        "🚶‍♂️ <strong>Balade légère en forêt</strong>: Profitez des sentiers de randonnée faciles pour une promenade relaxante au milieu des sapins.",
+        "🚡 <strong>Montée en télésiège (selon saison)</strong>: Admirez la vue panoramique sur les montagnes Cindrel et la vallée de Sibiu depuis les hauteurs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Păltiniș",
+          "categorie": "Station de montagne",
+          "coords": { "lat": 45.6800, "lng": 23.9300 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🧥",
+          "titre": "Préparation",
+          "texte": "Même en mai, les températures en montagne peuvent être fraîches. Prévoyez une veste et des chaussures de marche confortables."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🛍️",
+      "titre": "Marché local et artisanat transylvanien",
+      "legende": "Imprégnez-vous de l'ambiance locale en visitant le marché de Sibiu, puis partez à la recherche de souvenirs authentiques. Une journée dédiée à la découverte des saveurs et du savoir-faire transylvaniens, à un rythme tranquille.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🥕 <strong>Visite du marché de Piata Cibin</strong>: Explorez le marché local pour découvrir les produits frais, les fromages et les spécialités régionales.",
+        "🎁 <strong>Chasse aux souvenirs artisanaux</strong>: Parcourez les petites boutiques du centre-ville pour trouver des objets d'artisanat local, comme des poteries ou des broderies.",
+        "☕ <strong>Détente dans un café historique</strong>: Savourez un café ou une pâtisserie dans l'un des charmants cafés de la Piata Mare ou Piata Mica."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piata Cibin, Sibiu",
+          "categorie": "Marché",
+          "coords": { "lat": 45.7980, "lng": 24.1470 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🧀",
+          "titre": "Gastronomie",
+          "texte": "Ne manquez pas de goûter au \"telemea\", un fromage local, et aux \"mici\", des saucisses grillées, typiques de la cuisine roumaine."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez de vos dernières heures à Sibiu pour un dernier café ou l'achat d'un ultime souvenir. C'est le moment de se remémorer les moments paisibles et les découvertes de ce voyage relaxant en Transylvanie avant de prendre votre vol retour.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🥐 <strong>Petit-déjeuner tranquille</strong>: Savourez un dernier petit-déjeuner roumain dans un café local.",
+        "🛍️ <strong>Achats de dernière minute</strong>: Profitez-en pour acheter les derniers souvenirs ou cadeaux.",
+        "🛫 <strong>Transfert à l'aéroport et vol retour</strong>: Départ de Sibiu (SBZ) pour votre vol vers Paris (CDG)."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Rappel",
+          "texte": "Prévoyez suffisamment de temps pour le transfert à l'aéroport et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "407 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "175 €/pers (location voiture ou tours)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "245 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "510 €/pers (hôtel 3* en chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "125 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Décembre (marché de Noël)", "symbole": "🎄" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures à Sibiu varient entre 10 et 20°C. Prévoyez des couches de vêtements pour s'adapter aux variations.", "symbole": "🌸" },
+    { "titre": "La monnaie locale est le Leu Roumain (RON). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour la location de voiture. La conduite se fait à droite et les vitesses sont en km/h.", "symbole": "🚗" },
+    { "titre": "Le roumain est la langue officielle. L'anglais est couramment parlé dans les zones touristiques et par la jeune génération.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SBZ/2026-05-15/2026-05-22", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Roumanie", "url": "https://romaniatourism.com/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Sibiu", "url": "https://www.accuweather.com/fr/ro/sibiu/287700/weather-forecast/287700", "symbole": "🌤️" },
+    { "legende": "Transports locaux", "titre": "Transport Public Sibiu", "url": "https://tursib.ro/", "symbole": "🚌" }
+  ]
+}
